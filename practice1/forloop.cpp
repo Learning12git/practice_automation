@@ -6,7 +6,7 @@ main()
     for(size_t i{}, x{5},y{10}; y<20; ++i, x+=2,y+=5)
     {
         std::cout<<"i - "<<i<<"  , x - "<<x<<"  , y - "<<y<<std::endl;
-        std::cout<<"check"<<std::endl;
+        // std::cout<<"check"<<std::endl;
 
     }
 
